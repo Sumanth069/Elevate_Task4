@@ -109,5 +109,3 @@ The final dataset is clean, encoded, scaled, and ready for machine learning mode
 
 # Conclusion
 This task provided hands-on experience with feature engineering fundamentals, including categorical encoding and numerical scaling. The preprocessing steps significantly improve data quality and ensure compatibility with machine learning algorithms such as Logistic Regression, SVM, KNN, and Neural Networks. The final output is a structured, scalable, and model-ready dataset suitable for predictive analysis.
-
-This task provided hands-on experience with **feature engineering fundamentals**, including categorical encoding and numerical scaling. The preprocessing steps significantly improve data quality and ensure compatibility with machine learning algorithms such as Logistic Regression, SVM, KNN, and Neural Networks. The final output is a structured, scalable, and model-ready dataset suitable for predictive analysis.
