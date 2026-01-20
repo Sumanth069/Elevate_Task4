@@ -98,9 +98,12 @@ These features are crucial for **classification and prediction tasks**.
 
 
 # Output
+<img width="1042" height="315" alt="Image" src="https://github.com/user-attachments/assets/9916cc99-0ef3-4a95-a596-b4675afec36e" />
 
-    
+<img width="1352" height="467" alt="Image" src="https://github.com/user-attachments/assets/99fa5ba9-05d0-49e8-882d-33be8e264ca6" />
 
+<img width="1448" height="589" alt="Image" src="https://github.com/user-attachments/assets/100b98fb-d05f-4557-9ed1-c894e0e43829" />
+  
 The final dataset is clean, encoded, scaled, and ready for machine learning models.
 
 
